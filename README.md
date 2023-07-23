@@ -1,4 +1,4 @@
-![logo](https://github.com/2910priya/2910priya/blob/main/Black%20White%20Bold%20Business%20Channel%20Youtube%20Banner.png width="500")
+![logo](https://github.com/2910priya/2910priya/blob/main/Black%20White%20Bold%20Business%20Channel%20Youtube%20Banner.png )
 
 <h1 align="center">Hi 👋, I'm Priya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
